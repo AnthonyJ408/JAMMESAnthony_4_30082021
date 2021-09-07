@@ -2012,7 +2012,7 @@ pre code {
 
 .row {
     margin-right: -15px;
-    margin-left: -15px
+    margin-left: -15px;
 }
 
 .col-lg-1,
@@ -2322,7 +2322,8 @@ pre code {
         width: 58.33333333%
     }
     .col-sm-6 {
-        width: 50%
+        width: 50%;
+        justify-content: center;
     }
     .col-sm-5 {
         width: 41.66666667%
@@ -5075,10 +5076,6 @@ textarea.input-group-sm>.input-group-btn>.btn {
     }
 }
 
-@media (min-width:768px) {
-    .navbar-header {
-        float: left
-    }
 }
 
 .navbar-collapse {
@@ -5187,7 +5184,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 
 .navbar-brand {
-    float: left;
+    
     height: 50px;
     padding: 15px 15px;
     font-size: 18px;
@@ -5285,10 +5282,6 @@ textarea.input-group-sm>.input-group-btn>.btn {
     }
     .navbar-nav>li {
         float: left
-    }
-    .navbar-nav>li>a {
-        padding-top: 15px;
-        padding-bottom: 15px
     }
 }
 
