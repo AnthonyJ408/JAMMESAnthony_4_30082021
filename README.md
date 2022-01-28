@@ -11,7 +11,7 @@ On dois analyser l'état actuel de SEO, d'accessibilité et de performance du si
 
 ## Démarrage
 
-Le site est héberger sur [Github-Pages](https://anthonyj408.github.io/JAMMESAnthony_4_30082021/)
+Le site est hébergé sur [Github-Pages](https://anthonyj408.github.io/JAMMESAnthony_4_30082021/)
 
 ## Fabriqué avec
 
